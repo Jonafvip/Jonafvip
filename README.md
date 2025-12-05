@@ -8,6 +8,6 @@ Habilidades | 🧠
 <br>
 React🐟
 <br>
-JavaScript😼![error](<img src="https://i.imgur.com/example-javascript.gif" width="30"/>)
+JavaScript😼 [![Logo de JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 <br>
 C#👾
