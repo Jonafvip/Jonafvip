@@ -7,8 +7,8 @@ Construyo sitios web  modernas y escalables.</p>
 
 <ul>
   <h3>Habilidades | 🧠</h3>
-  <li><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Logo de React" width="100" /></li>
-  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo de JavaScript" width="100" /></li>
-  <li><img src="https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Logo de C# Morado" width="100"/></li>
+  <li><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Logo de React" width="80" height="80"/></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Logo de JavaScript" width="80" height="80"/></li>
+  <li><img src="https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Logo de C# Morado" width="80"height="80"/></li>
 </ul>
 
