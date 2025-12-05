@@ -8,6 +8,6 @@ Habilidades | 🧠
 <br>
 React🐟
 <br>
-JavaScript😼 $\text{<:javascript:752391054366632971>}
+JavaScript😼![error](<img src="https://i.imgur.com/example-javascript.gif" width="30"/>)
 <br>
 C#👾
