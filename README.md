@@ -4,6 +4,9 @@ Hola Mi nombre es Jonathan , soy Ingeniero de Sistema
 Especializado en el desarrollo de aplicaciones web de alto rendimiento. Construyo sitios web  modernas y escalables 
 
 Habilidades | 🧠
+<br>
 React🐟
+<br>
 JavaScript😼
+<br>
 C#👾
