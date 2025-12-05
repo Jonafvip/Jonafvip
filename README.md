@@ -8,6 +8,6 @@ Habilidades | 🧠
 <br>
 React🐟
 <br>
-JavaScript😼
+JavaScript😼 $\text{<:javascript:752391054366632971>}
 <br>
 C#👾
