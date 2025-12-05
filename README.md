@@ -1,7 +1,7 @@
 ## Hola Que Tal 👋
 
-<p>Mi nombre es Jonathan🧑 <br> Soy Ingeniero de Sistema 💻 <br>
-Especializado en el desarrollo de aplicaciones web de alto rendimiento 🔝<br>
+<p>Mi nombre es Jonathan🧑 <br> Soy Estudiante de Ingenieria en Sistema 💻 <br>
+En proceso  de Especializacion en el desarrollo de aplicaciones web de alto rendimiento 🔝<br>
 Construyo sitios web  modernos y escalables.</p>
 <hr>
 
