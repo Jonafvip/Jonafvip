@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hola Que Tal 👋
 
-<p>Hola Mi nombre es Jonathan🧑 <br> Soy Ingeniero de Sistema 💻 <br>
+<p>Mi nombre es Jonathan🧑 <br> Soy Ingeniero de Sistema 💻 <br>
 Especializado en el desarrollo de aplicaciones web de alto rendimiento 🔝<br>
 Construyo sitios web  modernas y escalables.</p>
 <hr>
