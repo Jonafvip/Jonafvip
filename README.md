@@ -2,7 +2,7 @@
 
 <p>Mi nombre es Jonathan🧑 <br> Soy Ingeniero de Sistema 💻 <br>
 Especializado en el desarrollo de aplicaciones web de alto rendimiento 🔝<br>
-Construyo sitios web  modernas y escalables.</p>
+Construyo sitios web  modernos y escalables.</p>
 <hr>
 
 <h2> Habilidades | 🧠</h2>
