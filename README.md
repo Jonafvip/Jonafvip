@@ -12,3 +12,6 @@ Construyo sitios web  modernos y escalables.</p>
   <li><img src="https://img.shields.io/badge/C%23-9400D3?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Logo de C# Morado" /></li>
 </ul>
 
+<hr>
+<h3>Eterno Autodidacta</h3>
+
