@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hola Que Tal 👋
 
-<!--
-**Jonafvip/Jonafvip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Jonathan** 🧐
+Soy **Estudiante de Ingeniería en Sistemas** 💻 apasionado por el desarrollo de software.
+Actualmente enfocado en aprender a construir **aplicaciones web de alto rendimiento** y sitios escalables.
 
-Here are some ideas to get you started:
+## Tecnologías en Aprendizaje | 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis conocimientos en:
+
+| Frontend | Backend | Bases de Datos |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> **React** | <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> **Node.js** | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> **MySQL** |
+| <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> **Bootstrap** | <img src="https://skillicons.dev/icons?i=express" width="30"/> **Express.js** | <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> **MongoDB** |
+
+
+---
+### 📊 Mis Estadísticas
+![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&theme=dark&rank_icon=github)**
+
+
+<hr>
+<h3>Eterno Autodidacta</h3>
+
