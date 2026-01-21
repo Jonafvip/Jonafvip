@@ -19,5 +19,5 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 ![Estadísticas de Jonathan](https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&theme=dark&rank_icon=github)
 
 <hr>
-<h3>Eterno Autodidacta</h3>>
+<h3>Eterno Autodidacta</h3>
 
