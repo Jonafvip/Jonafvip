@@ -12,7 +12,7 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=nodejs" width="30"/> **Node.js** | <img src="https://skillicons.dev/icons?i=postgres" width="30"/> **PostgreSQL** | <img src="https://skillicons.dev/icons?i=git" width="30"/> **Git** |
 | <img src="https://skillicons.dev/icons?i=ts" width="30"/> **TypeScript** | <img src="https://skillicons.dev/icons?i=mongodb" width="30"/> **MongoDB** | <img src="https://skillicons.dev/icons?i=prisma" width="30"/> **Prisma** |
-| <img src="https://skillicons.dev/icons?i=spring" width="30"/> **Spring Boot** | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> **MySQL** | <img src="https://skillicons.dev/icons?i=docker" width="30"/> **Docker** |
+| <img src="https://skillicons.dev/icons?i=spring" width="30"/> **Spring Boot** | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> **MySQL** | |
 
 
 ---
