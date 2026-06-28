@@ -8,12 +8,10 @@ Actualmente enfocado en aprender a construir **aplicaciones web de alto rendimie
 
 Actualmente estoy fortaleciendo mis conocimientos en:
 
-| Frontend | Backend | Bases de Datos | Herramientas |
-| :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react" width="30"/> **React** | <img src="https://skillicons.dev/icons?i=django" width="30"/> **Django** | <img src="https://skillicons.dev/icons?i=postgres" width="30"/> **PostgreSQL** | <img src="https://skillicons.dev/icons?i=git" width="30"/> **Git** |
-| | <img src="https://skillicons.dev/icons?i=python" width="30"/> **Python** | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> **MySQL** | |
-| | <img src="https://skillicons.dev/icons?i=ts" width="30"/> **TypeScript** | | |
-| | <img src="https://skillicons.dev/icons?i=spring" width="30"/> **Spring Boot** | | |
+| Frontend | Backend | Lenguajes | Bases de Datos | Herramientas |
+| :--- | :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> **React** | <img src="https://skillicons.dev/icons?i=django" width="30"/> **Django** | <img src="https://skillicons.dev/icons?i=python" width="30"/> **Python** | <img src="https://skillicons.dev/icons?i=postgres" width="30"/> **PostgreSQL** | <img src="https://skillicons.dev/icons?i=git" width="30"/> **Git** |
+| | <img src="https://skillicons.dev/icons?i=spring" width="30"/> **Spring Boot** | <img src="https://skillicons.dev/icons?i=ts" width="30"/> **TypeScript** | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> **MySQL** | |
 
 
 ---
