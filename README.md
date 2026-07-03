@@ -52,9 +52,6 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jonafvip&layout=pie&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0" width="49%"/>
 </p>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Jonafvip&theme=nord&no-frame=true&no-bg=false&column=4&margin-w=15&margin-h=13" width="100%"/>
-</p>
 
   
 <h3>Eterno Autodidacta</h3
