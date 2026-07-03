@@ -30,7 +30,7 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 
 <h2 align="center">Lenguages y herramientas en Aprendizaje</h2>
 
-Actualmente estoy fortaleciendo mis conocimientos en:
+<h3 align="center">Actualmente estoy fortaleciendo mis conocimientos en:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
