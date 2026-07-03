@@ -40,10 +40,6 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 ---
 ### 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0&icon_color=FFFFFF&ring_color=FFFFFF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonafvip&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0" width="49%"/>
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonafvip&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 <p align="center">
