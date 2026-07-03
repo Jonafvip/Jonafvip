@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/Jonafvip/image/main/3989a569e960afb5a0b07d66e046dc03.jpg" width="100%" height="480px" style="object-fit: cover;"/>
 </p>
 <br>
-<br>
 <h1 align="center">
  Acerca de mi 
 </h1>
@@ -21,7 +20,6 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 </table>
 <br>
 <br>
-<br>
 <h2 align="center">Mi Stack</h2>
 
 <p align="center">
@@ -30,7 +28,6 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
 </p>
-<br>
 <br>
 <br>
 <h2 align="center">Lenguages y herramientas en Aprendizaje</h2>
