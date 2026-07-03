@@ -50,7 +50,6 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
   <img src="https://streak-stats.demolab.com?user=Jonafvip&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jonafvip&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
   <img src="https://github-trophies.vercel.app/?username=Jonafvip&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
 </p>
 
