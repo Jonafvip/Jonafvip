@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/3989a569e960afb5a0b07d66e046dc03.jpg" width="100%" height="500px" style="object-fit: cover;"/>
+  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/3989a569e960afb5a0b07d66e046dc03.jpg" width="100%" height="400px" style="object-fit: cover;"/>
 </p>
 
 ## Hola Que Tal 👋
