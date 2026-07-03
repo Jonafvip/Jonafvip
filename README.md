@@ -11,6 +11,7 @@
 </td>
 <td>
 Hola que tal Mi nombre es Jonathan Flores
+
 Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de software. Enfocado en construir soluciones eficientes y escalables aplicando buenas prácticas, con una obsesión constante por seguir aprendiendo y resolviendo problemas. Disfruto compartir en el camino todo lo que voy descubriendo.
 
 </td>
