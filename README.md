@@ -34,10 +34,9 @@ Actualmente estoy fortaleciendo mis conocimientos en:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,spring,py,django,react,postgres,git,vscode,bash,github,tailwind" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=ts,java,spring,py,django,react,postgres,git,vscode,bash,github,tailwind&theme=dark&perline=6" alt="Skills"/>
   </a>
 </p>
-
 
 ---
 ### 📊 Mis Estadísticas de GitHub
