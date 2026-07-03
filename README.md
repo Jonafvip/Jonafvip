@@ -41,17 +41,12 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonafvip&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonafvip&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonafvip&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jonafvip&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonafvip&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonafvip&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Jonafvip&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%"/>
 </p>
 
   
