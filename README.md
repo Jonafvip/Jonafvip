@@ -39,14 +39,18 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 
 ---
 ### 📊 Mis Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonafvip&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonafvip&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0&icon_color=FFFFFF&ring_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonafvip&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=E0E0E0" width="49%"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jonafvip&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonafvip&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jonafvip&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jonafvip&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
 </p>
 
   
