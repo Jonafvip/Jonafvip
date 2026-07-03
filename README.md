@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="140">
-  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/Download free png of PNG Vintage books stack illustration_ by Hein about book, books png, vintage retro book, books png aesthetic, and book stack 17712539.jpeg" width="140" />
+  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/Download free png of PNG Vintage books stack illustration_ by Hein about book, books png, vintage retro book, books png aesthetic, and book stack 17712539.jpeg" width="200" />
 </td>
 <td>
 
