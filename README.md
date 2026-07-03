@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jonafvip/Jonafvip/main/assets/banner.gif" width="100%"/>
+</p>
+
 ## Hola Que Tal 👋
 
 Mi nombre es **Jonathan** 🧐
