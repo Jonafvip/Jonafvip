@@ -29,7 +29,7 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 </p>
 <br>
 
-<h2 align="center">Lenguages y herramientas en Aprendizaje</h2>
+<h2 align="center">Lenguages y herramientas que he puesto en mis manos en Aprendizaje</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
