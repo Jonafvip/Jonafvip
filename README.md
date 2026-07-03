@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/banners_hands_jonaf.png" width="100%" height="500px"/>
+  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/banners_hands_jonaf.png" width="100%" height="800px"/>
 </p>
 
 <h1 align="center">
