@@ -18,6 +18,9 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
 </tr>
 </table>
 
+<h2 align="center">Mi Stack</h2>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,django,postgres)](https://skillicons.dev)
+
 ## Tecnologías en Aprendizaje | 🧠
 
 Actualmente estoy fortaleciendo mis conocimientos en:
