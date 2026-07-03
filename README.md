@@ -2,11 +2,20 @@
   <img src="https://raw.githubusercontent.com/Jonafvip/image/main/3989a569e960afb5a0b07d66e046dc03.jpg" width="100%" height="480px" style="object-fit: cover;"/>
 </p>
 
-## Hola Que Tal 👋
+## Acerca de mi 
 
-Mi nombre es **Jonathan** 🧐
-Soy **Estudiante de Ingeniería en Sistemas** 💻 apasionado por el desarrollo de software.
-Actualmente enfocado en aprender a construir **aplicaciones web de alto rendimiento** y sitios escalables.
+<table>
+<tr>
+<td>
+
+Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de software. Enfocado en construir soluciones eficientes y escalables aplicando buenas prácticas, con una obsesión constante por seguir aprendiendo y resolviendo problemas. Disfruto compartir en el camino todo lo que voy descubriendo.
+
+</td>
+<td width="140">
+  <img src="URL_DE_TU_IMAGEN" width="120" alt="Foto de perfil" />
+</td>
+</tr>
+</table>
 
 ## Tecnologías en Aprendizaje | 🧠
 
