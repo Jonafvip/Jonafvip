@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/Jonafvip/image/main/Download free png of PNG Vintage books stack illustration_ by Hein about book, books png, vintage retro book, books png aesthetic, and book stack 17712539.jpeg" width="250" />
 </td>
 <td>
-
+Hola que tal Mi nombre es Jonathan Flores
 Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de software. Enfocado en construir soluciones eficientes y escalables aplicando buenas prácticas, con una obsesión constante por seguir aprendiendo y resolviendo problemas. Disfruto compartir en el camino todo lo que voy descubriendo.
 
 </td>
