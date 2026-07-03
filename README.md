@@ -28,9 +28,9 @@ Soy **Estudiante de Ingeniería en Sistemas**, apasionado por el desarrollo de s
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
 </p>
 
-<h2 align="center">Lenguages y herramientas en Aprendizaje</h2>
 
-<h3 align="center">Actualmente estoy fortaleciendo mis conocimientos en:</h3>
+
+<h2 align="center">Lenguages y herramientas en Aprendizaje</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
