@@ -8,7 +8,7 @@
 <table>
 <tr>
 <td width="270">
-  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/book_final.png" width="270" />
+  <img src="https://raw.githubusercontent.com/Jonafvip/image/main/final_book.png" width="270" />
 </td>
 <td>
 Hola que tal Mi nombre es Jonathan Flores
